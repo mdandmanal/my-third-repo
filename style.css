@@ -1,0 +1,18 @@
+h1{
+    background-color: yellow;
+    width: 500px;
+    height: 150px;
+    border: 10px solid black;
+    border-radius: 5px;
+    padding: 30px 10px 20px 30px;
+}
+p{
+    background-color: yellow;
+    width: 500px;
+    height: 150px;
+    border: 10px solid black;
+    border-radius: 5px;
+color: indigo; 
+font-size: 50px; 
+padding: 30px 10px 20px 30px;  
+}
