@@ -16,3 +16,9 @@ color: indigo;
 font-size: 50px; 
 padding: 30px 10px 20px 30px;  
 }
+input{
+    background-color: green;
+}
+.input{
+    background-color: red;
+}
